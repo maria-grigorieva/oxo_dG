@@ -1,0 +1,35 @@
+# Папки для исключения
+/input_files/
+/data_source/
+/SquiggleKit/
+/tombo/
+/venv_py312/
+/service_files/
+
+# Дополнительные исключения (рекомендуется)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Операционные системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
